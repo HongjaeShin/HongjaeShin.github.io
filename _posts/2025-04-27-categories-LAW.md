@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /End-to-End Planning/LAW/
+permalink: /e2e/LAW/
 
 toc: true
 toc_sticky: true
