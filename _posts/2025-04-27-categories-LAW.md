@@ -1,5 +1,5 @@
 ---
-title: "LAW:Enhancing End-to-End Autonomous Driving with Latent World Model"
+title: "LAW: Enhancing End-to-End Autonomous Driving with Latent World Model"
 excerpt: "Future latent 예측을 통한 BEV feature representation 강화"
 
 categories:
@@ -16,7 +16,7 @@ date: 2025-04-27
 last_modified_at: 2025-04-27
 ---
 
-## 🦥 LAW:Enhancing End-to-End Autonomous Driving with Latent World Model
+## LAW: Enhancing End-to-End Autonomous Driving with Latent World Model
 
 # Introduction
 
