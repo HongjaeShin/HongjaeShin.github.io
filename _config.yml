@@ -25,7 +25,7 @@ subtitle: # site tagline that appears below site title in masthead
 name: "HongjaeShin" # 블로그 닉네임 설정
 description: "this is my blog!" # 블로그 설명
 url: "https://github.com/HongjaeShin/HongjaeShin.github.io" # 블로그 URL
-baseurl: "/blog" # the subpath of your site, e.g. "/blog"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "HongjaeShin/HongjaeShin.github.io" # GitHub Repo 이름
 teaser: #
 
