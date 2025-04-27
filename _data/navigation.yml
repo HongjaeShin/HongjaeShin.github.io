@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://hongjaeshin.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/hongjaeshin
 
   # - title: "Projects"
   #   url: /projects/
@@ -20,9 +20,9 @@ main:
 categories:
   - title: "End-to-End Planning"
     url: /categories/End-to-End Planning/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  # - title: "Categories2"
+  #   url: /categories/categories2/
+  # - title: "Categories3"
+  #   url: /categories/categories3/
+  # - title: "Categories4"
+  #   url: /categories/categories4/
