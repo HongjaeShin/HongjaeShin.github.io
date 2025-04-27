@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories/End-to-End Planning/LAW:Enhancing End-to-End Autonomous Driving with Latent World Model/
+permalink: /End-to-End Planning/LAW/
 
 toc: true
 toc_sticky: true
