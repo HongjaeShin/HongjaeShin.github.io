@@ -1,9 +1,9 @@
 ---
-title: "Planning"
+title: "End-to-End"
 layout: category
-permalink: /categories/planning/
+permalink: /categories/e2e/
 author_profile: true
-taxonomy: Planning
+taxonomy: End-to-End
 sidebar:
   nav: "categories"
 ---
