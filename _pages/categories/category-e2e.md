@@ -1,9 +1,9 @@
 ---
-title: "End-to-End"
+title: "End-to-End Planning"
 layout: category
 permalink: /categories/e2e/
 author_profile: true
-taxonomy: End-to-End
+taxonomy: End-to-End Planning
 sidebar:
   nav: "categories"
 ---
